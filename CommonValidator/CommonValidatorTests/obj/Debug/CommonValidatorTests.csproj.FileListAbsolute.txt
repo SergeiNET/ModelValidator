@@ -1,0 +1,8 @@
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\bin\Debug\CommonValidatorTests.dll
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\bin\Debug\CommonValidatorTests.pdb
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\bin\Debug\CommonValidator.dll
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\bin\Debug\CommonValidator.pdb
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\obj\Debug\CommonValidatorTests.csprojResolveAssemblyReference.cache
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\obj\Debug\CommonValidatorTests.dll
+E:\Programing\VS15_PRG\CommonValidator\CommonValidatorTests\obj\Debug\CommonValidatorTests.pdb
