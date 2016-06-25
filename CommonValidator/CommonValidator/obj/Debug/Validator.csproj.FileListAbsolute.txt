@@ -1,4 +1,0 @@
-E:\Programing\VS15_PRG\CommonValidator\CommonValidator\bin\Debug\CommonValidator.dll
-E:\Programing\VS15_PRG\CommonValidator\CommonValidator\bin\Debug\CommonValidator.pdb
-E:\Programing\VS15_PRG\CommonValidator\CommonValidator\obj\Debug\CommonValidator.dll
-E:\Programing\VS15_PRG\CommonValidator\CommonValidator\obj\Debug\CommonValidator.pdb
